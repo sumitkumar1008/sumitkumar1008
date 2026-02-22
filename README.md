@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 "As a third-year B.Tech student specializing in CSE-AIML at Techno India University, West Bengal, I'm a passionate and versatile developer with a solid foundation in programming. My core expertise lies in Web development, where I enjoy crafting intuitive and dynamic user interfaces. I'm proficient in a range of programming languages, including C, C++, and Python, and am actively exploring the exciting world of AI and machine learning. I'm eager to apply my skills to real-world projects and am always seeking new challenges to expand my knowledge and grow as a developer."
 
 
