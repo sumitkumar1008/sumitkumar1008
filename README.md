@@ -2,8 +2,11 @@
 "As a Final-year B.Tech student specializing in CSE-AIML at Techno India University, West Bengal, I'm a passionate and versatile developer with a solid foundation in programming. My core expertise lies in Web development, where I enjoy crafting intuitive and dynamic user interfaces. I'm proficient in a range of programming languages, including C, C++, and Python, and am actively exploring the exciting world of AI and machine learning. I'm eager to apply my skills to real-world projects and am always seeking new challenges to expand my knowledge and grow as a developer."
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sumit kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumitkr0810@gmail.com) 
+## 🌐 Connect with me on 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumit-kumar-a12108297/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumitkr0810@gmail.com)
 
 # 💻 Tech Stack:
 
