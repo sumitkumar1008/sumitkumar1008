@@ -1,5 +1,5 @@
-# About Me:
-"As a Final-year B.Tech student specializing in CSE-AIML at Techno India University, West Bengal, I'm a passionate and versatile developer with a solid foundation in programming. My core expertise lies in Web development, where I enjoy crafting intuitive and dynamic user interfaces. I'm proficient in a range of programming languages, including C, C++, and Python, and am actively exploring the exciting world of AI and machine learning. I'm eager to apply my skills to real-world projects and am always seeking new challenges to expand my knowledge and grow as a developer."
+# 👨‍💻 About Me | 🌐 [Portfolio](https://portfolio-gamma-vert-47.vercel.app/)
+Final-year B.Tech student specializing in CSE-AIML, with a strong foundation in software development, web technologies, and AI/ML. Proficient in C++, Python, JavaScript, and modern web development, with a passion for building scalable applications and solving real-world problems. Always eager to learn, innovate, and grow as a developer.
 
 
 ## 🌐 Connect with me on 
